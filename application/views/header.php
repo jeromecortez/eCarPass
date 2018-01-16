@@ -398,6 +398,9 @@
                    <li id="stafftab" class="menu">
                         <a href="staffaccounts"><i class="fa fa-fw fa fa-user " aria-hidden="true"></i> Staff Accounts</a>
                    </li>
+                   <li id="settingtab" class="menu">
+                        <a href="settings"><i class="fa fa-fw fa fa-gear " aria-hidden="true"></i> Settings</a>
+                   </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
