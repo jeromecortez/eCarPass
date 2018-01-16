@@ -22,8 +22,8 @@
         $("#plate_reserve").val($("#platenumbox").val());
     });
 </script>
-        <div id="page-wrapper">
-<form action="parkslots" method="post" enctype="multipart/form-data"> 
+<div id="page-wrapper">
+    <form action="parkslots" method="post" enctype="multipart/form-data"> 
             <div class="container-fluid">
 
                 <!-- Page Heading -->

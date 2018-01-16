@@ -399,7 +399,7 @@
                         <a href="staffaccounts"><i class="fa fa-fw fa fa-user " aria-hidden="true"></i> Staff Accounts</a>
                    </li>
                    <li id="settingtab" class="menu">
-                        <a href="setup"><i class="fa fa-fw fa fa-gear " aria-hidden="true"></i> Settings</a>
+                        <a href="settings"><i class="fa fa-fw fa fa-gear " aria-hidden="true"></i> Settings</a>
                    </li>
                 </ul>
             </div>
