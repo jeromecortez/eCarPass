@@ -8,5 +8,13 @@
 			$this->load->view('settingsview');
 			$this->load->view('footer');
 		}
+
+		function changeSettings() {
+			$postdata = $this->input->post();
+
+			echo "<script> console.log('" . json_encode($postdata) . "'); </script>";
+
+			redirect($_SERVER['HTTP_REFERER']);
+		}
 	}
 ?>

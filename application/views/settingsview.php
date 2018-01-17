@@ -12,17 +12,21 @@
                     </h1>                
                 </div>
             </div>
-            <!-- Dashboard -->
-            <div class="row">
-            	<div class="col-lg-12 col-md-12 col-sm-12">
-            		<div class="col-lg-6 col-md-6 col-sm-12">
-            			<strong> Setup Simple - left column </strong>
-            		</div>
-            		<div class="col-lg-6 col-md-6 col-sm-12">
-            			<strong> Setup Simple - right column </strong>
-            		</div>
-            	</div>
-            </div>
+            <!-- Settings  -->
+            <form id="settings_form" action="<?php base_url(); ?>settings/changeSettings" method="post">
+	            <div class="row">
+	            	<div class="col-lg-12 col-md-12 col-sm-12">
+	            		<div class="col-lg-6 col-md-6 col-sm-12">
+	            			<strong> Setup Simple - left column </strong>
+	            		</div>
+	            		<div class="col-lg-6 col-md-6 col-sm-12">
+	            			<strong> Setup Simple - right column </strong>
+	            		</div>
+	            	</div>
+	            </div>
+	            <input type="text" name="asd" value="fasdas">  
+	            <input type="submit" name="">
+            </form>
     </div>
  </div>
  <!-- /#page-wrapper -->
