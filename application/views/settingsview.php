@@ -23,8 +23,7 @@
 	            			<strong> Setup Simple - right column </strong>
 	            		</div>
 	            	</div>
-	            </div>
-	            <input type="text" name="asd" value="fasdas">  
+	            </div>  
 	            <input type="submit" name="">
             </form>
     </div>
